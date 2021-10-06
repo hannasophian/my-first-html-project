@@ -11,3 +11,6 @@ Hello.
 REd
 BLue
 Green
+
+Changes part III
+strawberry, bananas and grapes
